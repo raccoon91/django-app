@@ -3,4 +3,7 @@
   "editor.formatOnSave": true,
   "editor.insertSpaces": true,
   "editor.tabSize": 4,
+  "[html]": {
+    "editor.formatOnSave": false,
+  }
 }
